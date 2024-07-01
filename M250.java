@@ -15,3 +15,7 @@ public class M250 {
 	}
 	
 }
+/*
+Initial content:[10, 20, 30, 40, 50, 60]
+Final content:[10, 10, 20, 30, 40, 50]
+*/
