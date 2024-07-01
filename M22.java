@@ -10,3 +10,11 @@ public static void main(String[] args) {
 	}
 }
 }
+/*
+
+5, 2, 7
+7, 1, 8
+4, 0, 4
+6, 2, 8
+
+*/
