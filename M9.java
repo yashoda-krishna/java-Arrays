@@ -8,3 +8,10 @@ public static void main(String[] args) {
 	}
 }
 }
+
+/*
+4
+2
+9
+6
+*/
