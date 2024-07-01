@@ -18,3 +18,8 @@ public static void main(String[] args) {
 	System.out.println(num + " "+ (flag ? "is available" : "not Available"));
 }
 }
+/*
+enter one number
+123
+123 not Available
+*/
