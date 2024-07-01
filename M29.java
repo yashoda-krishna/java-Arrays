@@ -12,3 +12,7 @@ public class M29 {
 		System.out.println("Final content:" + Arrays.toString(nums));
 	}
 }
+/*
+Initial content:[10, 20, 30, 40, 50, 60]
+Final content:[10, 20, 10, 20, 30, 40]
+*/
