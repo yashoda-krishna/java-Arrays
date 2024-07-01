@@ -17,3 +17,9 @@ public static void main(String[] args) {
 
 }
 }
+
+/*
+Initial content:[10, 20, 30, 40, 50, 60]
+Final content:[10, 60, 50, 20, 30, 40]
+
+*/
